@@ -1,0 +1,47 @@
+body {
+    background: cornsilk; 
+    }
+h1, h2 {
+    text-align:  center;
+    }
+h1 {
+    background: #D9FFAD;
+    color: green; 
+    }
+h2 {
+    color: blue;
+}
+h3 {
+    text-align: center; /* Выравнивание по центру */
+    }
+img {
+    border-color: blue;
+    }
+/* ТАБЛИЦА */
+table {
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+    color: darkcyan;
+    }
+.tablecapt {
+    font-family: "Cosmic Sans", fantasy;
+    color:black;
+    font-size: 24px;
+    }
+th {
+    background-color: darkblue;
+    }
+.thblue {
+    background-color: blue;
+    }
+.thlb {
+    background-color: lightblue;
+    }
+.thsand {
+    background-color: sandybrown;
+    }
+ul {
+  text-align: center;
+  list-style: inside;
+    }
+/* ТАБЛИЦА */
