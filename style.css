@@ -18,17 +18,17 @@ img {
     border-color: blue;
     }
 /* ТАБЛИЦА */
-table {
+.tb1 {
     font-family: Arial, sans-serif;
     background-color: aqua;
     color: darkcyan;
     }
 .tablecapt {
-    font-family: "Cosmic Sans", fantasy;
+    font-family: "Cosmic Sans", sans-serif;
     color:black;
     font-size: 24px;
     }
-th {
+.th1 {
     background-color: darkblue;
     }
 .thblue {
@@ -40,9 +40,8 @@ th {
 .thsand {
     background-color: sandybrown;
     }
-ul {
-  text-align: center;
-  list-style: inside;
+
     }
 /* ТАБЛИЦА */
+
 
